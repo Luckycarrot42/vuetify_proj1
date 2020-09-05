@@ -2,7 +2,6 @@
   <div>
     <v-row>
       <v-col cols="12" sm="8" offset-sm="2">
-        <v-card>
           <v-container fluid>
             <v-row>
               <v-col
@@ -23,7 +22,6 @@
               </v-col>
             </v-row>
           </v-container>
-        </v-card>
       </v-col>
     </v-row>
   </div>
