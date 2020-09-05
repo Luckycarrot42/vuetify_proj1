@@ -10,7 +10,7 @@
                 class="d-flex child-flex"
                 cols="4"
               >
-                <v-card flat tile class="d-flex flex-column">
+                <v-card tile class="d-flex flex-column">
                   <v-img
                     :src="personaje.imagen"
                     :lazy-src="personaje.imagen"
